@@ -1,0 +1,6 @@
+ To read:
+https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages
+https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language
+https://cs.lmu.edu/~ray/notes/paradigms/
+
+https://github.com/reach2arunprakash/javascript-101/tree/master/ppt
